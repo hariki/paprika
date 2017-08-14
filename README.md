@@ -24,3 +24,6 @@ http://pcn.club/paprika
 1. 下からichigojam/mixjuice/maplesyrupの順に刺しpaprikaにセット
 2. ボタンを押しながら起動すると0のプログラムが動作する
 3. スマホなどのブラウザでPHPファイルにアクセスして操作する
+
+## 参考
+http://fukuno.jig.jp/1382
