@@ -1,4 +1,4 @@
-# paprika_remocon
+# paprika-remocon
 
 スマホやタブレットからパプリカを遠隔操作
 
