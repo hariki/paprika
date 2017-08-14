@@ -7,8 +7,7 @@ http://pcn.club/paprika
 
 ## 必要なもの
 
-- paprika
-  maplesyrup http://maplesyrup.shizentai.jp/
+- paprika ( maplesyrup http://maplesyrup.shizentai.jp/ )
 - ichigojam https://ichigojam.net/
 - mixjuice http://mixjuice.shizentai.jp/
 - PHPの動くWebサーバ
@@ -18,7 +17,7 @@ http://pcn.club/paprika
 1. Webサーバにpaprika.phpを置いてpという書き込み可能な空のファイルを置く
 2. paprikaの組み立て
 3. mixjuiceの無線LAN設定
-4. ichigojamにpr.txtのプログラムを入力(またはダウンロード)して0に保存する(URLは1により適宜変更)
+4. ichigojamにpr.txtのプログラムを入力(またはダウンロード)してSAVE0(URLは1により適宜変更)
 
 ## 遊び方
 
