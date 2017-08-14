@@ -15,7 +15,7 @@ http://pcn.club/paprika
 
 ## 準備
 
-1. Webサーバにpaprika.phpを置いてpという空のファイルを置く
+1. Webサーバにpaprika.phpを置いてpという書き込み可能な空のファイルを置く
 2. paprikaの組み立て
 3. mixjuiceの無線LAN設定
 4. ichigojamにpr.txtのプログラムを入力(またはダウンロード)して0に保存する(URLは1により適宜変更)
