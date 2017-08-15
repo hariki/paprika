@@ -22,7 +22,7 @@ http://pcn.club/paprika
 ## 遊び方
 
 1. 下からichigojam/mixjuice/maplesyrupの順に刺しpaprikaにセット
-2. ボタンを押しながら起動すると0のプログラムが動作する
+2. ichigojamのボタンを押しながら起動すると0のプログラムが動作する
 3. スマホなどのブラウザでPHPファイルにアクセスして操作する
 
 ## 参考

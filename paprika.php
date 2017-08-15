@@ -11,7 +11,7 @@
       <h2 class="display-5">パプリカ操作盤</h2>
       <p class="lead">
       <?php
-        $getdata = '';
+        $getdata = 'S'; // 停止状態がデフォルト
         if (!empty($_GET['a'])) {
           $getdata = $_GET['a'];
           switch ($getdata) {
@@ -43,7 +43,7 @@
               echo '右手を後ろへ';
               break;
             default:
-              $getdata = ''; // overwrite if other words
+              $getdata = 'S'; // overwrite if other words
           }
         } else {
           echo 'ボタンを押して操作してね';
