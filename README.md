@@ -25,5 +25,10 @@ http://pcn.club/paprika
 2. ichigojamのボタンを押しながら起動すると0のプログラムが動作する
 3. スマホなどのブラウザでPHPファイルにアクセスして操作する
 
+## 遊んでみた
+
+https://player.vimeo.com/video/229678696
+
 ## 参考
+
 http://fukuno.jig.jp/1382
